@@ -50,8 +50,45 @@ Course Grade
 
 The final grade in the course is based upon our best assessment of your understanding of the material. This assessment is based on three noisy measurements: the problem sets, the midterm, and the final. The different measurements have different noise levels, and the final grade will be thus a weighted average, roughly according to the following rule:
 
-| Activities | Percentages |
-| --- | --- |
-| Midterm Exam | 35% |
-| Final Exam | 50% |
-| Problem Sets | 15%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
