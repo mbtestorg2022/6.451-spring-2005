@@ -6,6 +6,7 @@ description: This resource contains notes on integers, groups, fields, polynomia
   all prime p and m = 1.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/8921c013c1d7802bb197572c52442b97_chap7.pdf
 file_type: application/pdf
+parent_uid: 73f9a1c9-1575-f1a3-abda-44e7358df3a2
 resourcetype: Document
 title: chap7.pdf
 uid: 8921c013-c1d7-802b-b197-572c52442b97

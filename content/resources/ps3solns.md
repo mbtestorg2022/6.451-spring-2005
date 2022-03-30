@@ -5,6 +5,7 @@ description: This file contains solution for problems on invariance of coding ga
   constellations, even-weight codes have better coding gain.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/ecc464e775c2b58fc826ec48069692b8_ps3solns.pdf
 file_type: application/pdf
+parent_uid: 429aa445-ec35-d484-97ce-c9ef10fc57fd
 resourcetype: Document
 title: ps3solns.pdf
 uid: ecc464e7-75c2-b58f-c826-ec48069692b8

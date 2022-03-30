@@ -7,6 +7,7 @@ description: 'This resource gives the instructions on how to take the closed boo
   and proof for it.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/072b278828c13d55ce164af1d98da21b_final03.pdf
 file_type: application/pdf
+parent_uid: 91d8b0f5-8333-1241-16aa-c4a8a4cbf989
 resourcetype: Document
 title: final03.pdf
 uid: 072b2788-28c1-3d55-ce16-4af1d98da21b

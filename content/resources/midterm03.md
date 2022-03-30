@@ -6,6 +6,7 @@ description: 'This resource gives the instructions on how to take the closed boo
   with data tables useful to solve the problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/13a4ba8a120cea693cbc1959a80c025b_midterm03.pdf
 file_type: application/pdf
+parent_uid: 91d8b0f5-8333-1241-16aa-c4a8a4cbf989
 resourcetype: Document
 title: midterm03.pdf
 uid: 13a4ba8a-120c-ea69-3cbc-1959a80c025b

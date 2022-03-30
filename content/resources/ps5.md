@@ -7,6 +7,7 @@ description: This file contains 8 problems on Euclidean division algorithm, uniq
   RS codes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/b0311117e1f97920f4c371472379d361_ps5.pdf
 file_type: application/pdf
+parent_uid: 429aa445-ec35-d484-97ce-c9ef10fc57fd
 resourcetype: Document
 title: ps5.pdf
 uid: b0311117-e1f9-7920-f4c3-71472379d361

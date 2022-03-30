@@ -6,6 +6,7 @@ description: This resource provides introduction to lattice and trellis codes. I
   regime and multilevel codes and multistage decoding.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/5507a5832ab1c9b489ea100d9e2dd2bf_chap14.pdf
 file_type: application/pdf
+parent_uid: 73f9a1c9-1575-f1a3-abda-44e7358df3a2
 resourcetype: Document
 title: chap14.pdf
 uid: 5507a583-2ab1-c9b4-89ea-100d9e2dd2bf

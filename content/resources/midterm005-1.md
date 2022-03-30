@@ -6,6 +6,7 @@ description: 'This resource gives the instructions on how to take the closed boo
   and state if they are true or false, with data tables useful to solve the problems.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/df64fee0e1d69befdd7042d284f49396_midterm005.pdf
 file_type: application/pdf
+parent_uid: 91d8b0f5-8333-1241-16aa-c4a8a4cbf989
 resourcetype: Document
 title: midterm005.pdf
 uid: df64fee0-e1d6-9bef-dd70-42d284f49396

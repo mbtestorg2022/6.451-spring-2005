@@ -7,6 +7,7 @@ description: This resource gives some tables containing useful data to solve the
   book exam.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-451-principles-of-digital-communication-ii-spring-2005/48a03949a4142318ff9a90f4b1dbdc84_final02.pdf
 file_type: application/pdf
+parent_uid: 91d8b0f5-8333-1241-16aa-c4a8a4cbf989
 resourcetype: Document
 title: final02.pdf
 uid: 48a03949-a414-2318-ff9a-90f4b1dbdc84
